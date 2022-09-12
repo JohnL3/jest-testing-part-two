@@ -1,0 +1,29 @@
+{
+  "name": "jasminedom",
+  "version": "1.0.0",
+  "description": "Jest Testing",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "jquery": "^3.4.1",
+    "n": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.11",
+    "axios": "^0.21.1",
+    "jest": "^25.5.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechien73/JasmineDOM.git"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lechien73/JasmineDOM/issues"
+  },
+  "homepage": "https://github.com/lechien73/JasmineDOM#readme"
+}
